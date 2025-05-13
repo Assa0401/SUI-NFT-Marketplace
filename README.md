@@ -1,32 +1,92 @@
-# 🎭 Heros NFT AMM on Sui
+# 🎭 SUI NFT Marketplace
 
-## 🚀 The First NFT AMM Smart Contract on SUI Blockchain
+**The First NFT AMM Smart Contract on the Sui Blockchain**
 
-Heros NFT AMM is **the first Automated Market Maker (AMM) for NFTs** on the **Sui blockchain**, enabling users to **trade non-fungible tokens (NFTs) seamlessly**. As Sui is still in its early stages, we are pioneering **decentralized NFT trading** with this innovative contract.
+Welcome to **NFT Marketplace**, the first-of-its-kind **Automated Market Maker (AMM)** for NFTs on the **Sui blockchain**. This protocol allows seamless peer-to-peer trading of NFTs in a fully decentralized and transparent manner.
 
----
-
-## ⚡ Current Status
-
-🔹 **Early-stage demo version** – Several features are still under development.  
-🔹 **Core Trading Features Implemented** – Users can **list, transfer, buy, and sell NFTs**.  
-🔹 **Upcoming Features** – **Auctions & Raffles**, popular in traditional NFT marketplaces, are planned for future updates.  
-
-We welcome **feedback, feature requests, and contributions** to improve the protocol! 🎨📈
+As one of the early movers on Sui, this project is pioneering new ground in the NFT space, providing fundamental trading infrastructure for the next wave of digital asset innovation.
 
 ---
 
-## 🛠️ Features (Current & Planned)
+## 🚀 Key Features
 
-✅ **List & Transfer NFTs** – Securely list NFTs for trade and transfer between users.  
-✅ **Buy & Sell** – Simple NFT purchase and sales mechanisms with automated pricing.  
-🔜 **Auctions** – Users will be able to bid on NFTs in a decentralized auction system.  
-🔜 **Raffles** – Randomized NFT distribution for fair allocation and engagement.  
+### ✅ Live
+
+* **List NFTs** – Allow users to securely list NFTs for sale on-chain.
+* **Buy/Sell NFTs** – Seamless trading of NFTs using AMM-style pricing logic.
+* **Transfer NFTs** – Enable safe and gas-efficient NFT transfers between users.
+
+### 🔜 Coming Soon
+
+* **Auctions** – A decentralized bidding system for NFTs.
+* **Raffles** – Randomized NFT distribution for community engagement and fair access.
 
 ---
 
-## 📩 Get Involved
+## ⚙️ Current Status
 
-I appreciate all **feedback, suggestions, and contributions** from the my project! If you have ideas or proposals, feel free to share me. 🌟
+* 🧪 **Early-stage Demo** – Basic functionality is implemented.
+* 🔧 **Actively in Development** – Features are continuously being improved and expanded.
+* 🧩 **Open for Feedback & Contributions** – Community feedback is highly appreciated.
 
-Join the conversation and help shape the future of **NFT trading on Sui**! 🚀
+---
+
+## 🧑‍💻 How to Use
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/toptrendev0829/SUI-NFT-Marketplace.git
+   ```
+
+2. **Navigate to the directory**
+
+   ```bash
+   cd SUI-NFT-Marketplace
+   ```
+
+3. **Build and test**
+   Follow Sui Move standard practices to build and test smart contracts:
+
+   ```bash
+   sui move build
+   sui move test
+   ```
+
+> **Note:** You will need a [Sui CLI](https://docs.sui.io/build/install) and a funded devnet/testnet wallet to interact with the contract on-chain.
+
+---
+
+## 🧠 Project Structure
+
+* `sources/` – Move smart contracts for NFT listing, trading, and transfer.
+* `tests/` – Unit tests for contract modules.
+* `Move.toml` – Project configuration for Move packages.
+
+---
+
+## 🤝 Contributing
+
+We welcome all contributions that help improve the protocol or expand its capabilities:
+
+* Bug reports 🐛
+* Feature requests 💡
+* Code enhancements 🛠️
+* Documentation updates 📝
+
+To contribute:
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature-name`)
+3. Commit your changes (`git commit -m 'Add feature'`)
+4. Push to the branch (`git push origin feature-name`)
+5. Open a Pull Request
+
+---
+
+## 📩 Get in Touch
+
+Have suggestions or want to collaborate? Feel free to reach out:
+
+* 📬 Twitter: [@abcede_12345](https://x.com/abcede_12345)
+* ☎ Telegram: [@TopTrendingDev](https://t.me/TopTrendingDev)
