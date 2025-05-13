@@ -1,4 +1,4 @@
-# 🎭 SUI NFT Marketplace
+# SUI NFT Marketplace
 
 **The First NFT AMM Smart Contract on the Sui Blockchain**
 
