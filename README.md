@@ -84,11 +84,6 @@ To contribute:
 
 ---
 
-## 📩 Get in Touch
 
-Have suggestions or want to collaborate? Feel free to reach out:
-
-* 📬 Twitter: [@abcede_12345](https://x.com/abcede_12345)
-* ☎ Telegram: [@TopTrendingDev](https://t.me/TopTrendingDev)
 
 
